@@ -59,8 +59,8 @@ The Foundation Board determined that $60 million total valuation would be suffic
 *NOTE:*  The Foundation is very specifically NOT granting team members tokens in excess of time invested in the Foundation to-date.  Whereas, most token sale projects grant tokens for future work or in attempt to replicate stock options, the Foundation is specifically not granting tokens for future work. 
 
 
-![](https://d2mxuefqeaa7sj.cloudfront.net/s_B07272BD7D2F946CAA1EC96DFDBF4623193F76510E112B86505A5B6FF0886EFF_1531225236748_image.png)
-![token ring](https://user-images.githubusercontent.com/24529258/42738688-92e13732-883c-11e8-93ec-dabcd195f8d1.png)
+ - ![](https://d2mxuefqeaa7sj.cloudfront.net/s_B07272BD7D2F946CAA1EC96DFDBF4623193F76510E112B86505A5B6FF0886EFF_1531225236748_image.png)
+
 
 
 ## **Pricing of Token**
